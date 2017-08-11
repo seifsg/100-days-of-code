@@ -1,30 +1,25 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - SeifSG / Seif Sgayer
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 6, Sunday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've created my personal website repo and submitted some code into it. Also made some cards on Trello.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Starting this challenge is a great way to keep tracking of coding outside the day job. It's a motivation to keep writing code on daily basis.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work**: [SeifSG](https://seifsg.github.io/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: August 10, Thursday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learning time managment. Some code to my website. Learning about what possible javascript libraries I can use.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: It's been so difficult to keep up with a busy schedual. Well, the challenge is so important to me aswell. So I'm giving it more priority.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**: [SeifSG](https://seifsg.github.io/)
 
+### Day 3: August 11, Friday
 
-### Day 1: June 27, Monday
+**Today's Progress**: Going back to complete some of freeCodeCamp challenges. The twitch api challenge. Also the Reactjs lessons on CodeAcademy.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: Hmm... I should really finish that website of mine haha. But instead I went to do the FCC challenge because it is more fun. and most likely because I am planning to implement twitch api in my site soon. And Reactjs seems like reeaaally worth it.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**: https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api
