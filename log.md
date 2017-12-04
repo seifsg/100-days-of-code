@@ -1,5 +1,65 @@
-# 100 Days Of Code - Log - SeifSG / Seif Sgayer
 
+# [100 Days Of Code](https://twitter.com/search?src=typd&q=%23100DaysOfCode) - Log - SeifSG / Seif Sgayer
+
+### Day 8: December 4, Monday
+
+**Progress**: Activities log now fetchs data from my Github 100DoC repo md file with correct markup.
+
+**Thoughts**: I can now focus on simply updating the log file daily for the challenge.
+
+**Link to work**: [SeifSG](https://seifsg.com/journal.html)
+
+### Day 7: December 3rd, Sunday
+
+**Progress**: Big O notation. Hackerrank practice.
+
+**Thoughts**: College education didn't really mention the importance for Big O. Very interesting read.
+
+**Book**: Cracking the Coding Interview
+
+### Day 6: December 2nd, Saturday
+
+**Progress**: Added the About me page with a short story to my website + improvements to __CSS__. Then done some algorithms practice using __c++__.
+
+**Thoughts**: Not sure where to put contact information haha. not much of a designer really. Also, practice.
+
+**Link to work**: [SeifSG](https://seifsg.com/about.html)
+
+### Day 5: December 1st, Friday
+
+**Progress**: made current activity page in my website plus some improuvemnts. more problem solving exercises with c++ and __javascript__. ___Hackerrank + CodinGame__.
+
+**Thoughts**: Main thing here is to make habits. building it slowly.
+
+**Link to work**: [SeifSG](https://sefsg.com/now.html)
+
+### Day 4: November 30, Thursday
+
+**Progress**: Almost done with the front page of my website. I like to write the code myself. I shall update it daily.
+
+**Thoughts**: I hope to make a decent looking website.
+
+**Link to work**: [SeifSG](https://seifsg.com/)
+
+### Day 3: November 29, Wednsday
+
+**Progress**: at the end of the day, progress. Done problem-solving exercises using JavaScript and C++.
+
+**Thoughts**: Practice is very important. Spent whole day doing it. Still a lot of work ahead.
+
+### Day 2: November 28, Tuesday
+
+**Progress**: today was simply more exercises. Mosty problem-solving exercises. Hoping tomorrow ill advance more on my personal website.
+
+**Thoughts**: A lot of things that you don't learn from college or work.
+
+### Day 1: November 28, Tuesday
+
+**Progress**: Problem solving exercices
+
+**Thoughts**: Feels good to be back to the challenge. Excited!
+
+# August 2017 attempt
 ### Day 1: August 6, Sunday
 
 **Today's Progress**: I've created my personal website repo and submitted some code into it. Also made some cards on Trello.
