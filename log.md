@@ -27,7 +27,7 @@
 
 ### Day 5: December 1st, Friday
 
-**Progress**: made current activity page in my website plus some improuvemnts. more problem solving exercises with c++ and __javascript__. ___Hackerrank + CodinGame__.
+**Progress**: made current activity page in my website plus some improuvemnts. more problem solving exercises with c++ and __javascript__. __Hackerrank + CodinGame__.
 
 **Thoughts**: Main thing here is to make habits. building it slowly.
 
