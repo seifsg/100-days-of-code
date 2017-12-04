@@ -3,13 +3,13 @@
 
 ### Day 8: December 4, Monday
 
-**Progress**: Activities log now fetchs data from my Github 100DoC repo md file with correct markup.
+**Progress**: Activities log now fetchs data from my Github 100DoC repo md file with correct markup. Contact info in About me page.
 
-**Thoughts**: I can now focus on simply updating the log file daily for the challenge.
+**Thoughts**: I can now focus on simply updating the log file daily for the challenge. More work needs to be done on the website.
 
-**Link to work**: [SeifSG](https://seifsg.com/journal.html)
+**Link to work**: [SeifSG - Journal](https://seifsg.com/journal.html)
 
-### Day 7: December 3rd, Sunday
+### Day 7: December 3, Sunday
 
 **Progress**: Big O notation. Hackerrank practice.
 
@@ -17,7 +17,7 @@
 
 **Book**: Cracking the Coding Interview
 
-### Day 6: December 2nd, Saturday
+### Day 6: December 2, Saturday
 
 **Progress**: Added the About me page with a short story to my website + improvements to __CSS__. Then done some algorithms practice using __c++__.
 
@@ -25,7 +25,7 @@
 
 **Link to work**: [SeifSG](https://seifsg.com/about.html)
 
-### Day 5: December 1st, Friday
+### Day 5: December 1, Friday
 
 **Progress**: made current activity page in my website plus some improuvemnts. more problem solving exercises with c++ and __javascript__. __Hackerrank + CodinGame__.
 
@@ -53,7 +53,7 @@
 
 **Thoughts**: A lot of things that you don't learn from college or work.
 
-### Day 1: November 28, Tuesday
+### Day 1: November 27, Monday
 
 **Progress**: Problem solving exercices
 
