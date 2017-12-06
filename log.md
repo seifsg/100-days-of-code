@@ -1,6 +1,13 @@
 
 # [100 Days Of Code](https://twitter.com/search?src=typd&q=%23100DaysOfCode) - Log - SeifSG / Seif Sgayer
 
+### Day 9: December 6, Wednesday
+
+**Progress**: A bit of reading. A bit of strings with C++.
+
+**Thoughts**: Not much for the day. Sore eyes.
+
+
 ### Day 8: December 4, Monday
 
 **Progress**: Activities log now fetchs data from my Github 100DoC repo md file with correct markup. Contact info in About me page.
