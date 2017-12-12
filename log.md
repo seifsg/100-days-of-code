@@ -1,6 +1,27 @@
 
 # [100 Days Of Code](https://twitter.com/search?src=typd&q=%23100DaysOfCode) - Log - SeifSG / Seif Sgayer
 
+### Day 12: December 12, Tuesday
+
+**Progress**: More reading online. A bit on blockchain via Coursera. Added the Useful Ressources page to my website.
+
+**Thoughts**: I need to get done with website so I can start my projects soon.
+Blockchain technology is very interesting for business. It can help a business on terms of managment reduce costs, time and improve effeciency and security. Going to learn more for sure.
+
+**Link to work**: [SeifSG - Useful Ressources](https://seifsg.com/ur.html)
+
+### Day 11: December 11, Monday
+
+**Progress**: An easy exercice on hackerrank. Articles online. Some css fixes to my website.
+
+**Thoughts**: Need to focus.
+
+### Day 10: December 7, Thursday
+
+**Progress**: More #c++ strings. StringStream on Hackerank. Reading about algorithms and started an exercise that I'll probably finish next day.
+
+**Thoughts**: I wonder if it is possible to achieve comfort with C++.
+
 ### Day 9: December 6, Wednesday
 
 **Progress**: A bit of reading. A bit of strings with C++.
