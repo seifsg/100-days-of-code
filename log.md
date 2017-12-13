@@ -1,6 +1,12 @@
 
 # [100 Days Of Code](https://twitter.com/search?src=typd&q=%23100DaysOfCode) - Log - SeifSG / Seif Sgayer
 
+### Day 13: December 13, Wednesday
+
+**Progress**: Starting website from scratch. Going to use Angular this time. More on the blockchain.
+
+**Thoughts**: Blockchain is a really facinating technology that is going to change the world soon.
+
 ### Day 12: December 12, Tuesday
 
 **Progress**: More reading online. A bit on blockchain via Coursera. Added the Useful Ressources page to my website.
