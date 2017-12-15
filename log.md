@@ -1,6 +1,14 @@
 
 # [100 Days Of Code](https://twitter.com/search?src=typd&q=%23100DaysOfCode) - Log - SeifSG / Seif Sgayer
 
+### Day 14: December 14, Thursday
+
+**Progress**: Finished the Tour of Heroes tutorial of Angular 5. Started a new Angular project for my personal website.
+
+**Thoughts**: Nothing better than having a well structured website. This is for a better future!
+
+**Link to work**: [SeifSG](https://seifsg.com)
+
 ### Day 13: December 13, Wednesday
 
 **Progress**: Starting website from scratch. Going to use Angular this time. More on the blockchain.
