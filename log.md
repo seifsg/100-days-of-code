@@ -1,6 +1,23 @@
 
 # [100 Days Of Code](https://twitter.com/search?src=typd&q=%23100DaysOfCode) - Log - SeifSG / Seif Sgayer
 
+### Day 16: December 16, Saturday
+
+**Progress**: Fixed a bug in my bot. More on angular, google material.
+Got navbar for mobile ready. Got side bar working.
+
+**Thoughts**: Angular is good for an extensible project. At this point, I like it very much.
+
+**Link to work**: [Dev repo](https://github.com/seifsg/seifsg.github.io/tree/Dev)
+### Day 15: December 15, Friday
+
+**Progress**: Finished a tutorial about making a chatbot in Angular. Learned more about angular in general. And about unit testing more precisely.
+
+**Thoughts**: AI is sweet. Angular saves trouble of choosing which pattern to follow.
+Good for just getting project.
+
+**Link to work**: [Chatbot001](https://seifsg.com/snowball-chatbot/)
+
 ### Day 14: December 14, Thursday
 
 **Progress**: Finished the Tour of Heroes tutorial of Angular 5. Started a new Angular project for my personal website.
